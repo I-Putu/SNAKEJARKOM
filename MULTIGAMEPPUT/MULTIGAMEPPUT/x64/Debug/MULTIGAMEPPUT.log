@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Mahasiswa\PPut\Path\MULTIGAMEPPUT\MULTIGAMEPPUT\main.cpp(60,12): warning C4244:  'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MULTIGAMEPPUT.vcxproj -> D:\Mahasiswa\PPut\Path\MULTIGAMEPPUT\x64\Debug\MULTIGAMEPPUT.exe
